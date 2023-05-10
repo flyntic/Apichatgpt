@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApiChatGpt", "ConsoleApiChatGpt\ConsoleApiChatGpt.csproj", "{6F3403F4-D355-4C1D-A40A-89A06E4F9F92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F3403F4-D355-4C1D-A40A-89A06E4F9F92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F3403F4-D355-4C1D-A40A-89A06E4F9F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F3403F4-D355-4C1D-A40A-89A06E4F9F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F3403F4-D355-4C1D-A40A-89A06E4F9F92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E023E928-0DEE-4809-8851-A5488A32796F}
+	EndGlobalSection
+EndGlobal
